@@ -71,7 +71,7 @@ form section {
     text-align: center;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -86,15 +86,6 @@ form section {
 
 .portsSection p:nth-child(1) {
     transform: rotate(-90deg);
-}
-
-.portsSection div h2 {
-    font-family: 'Bebas Neue', cursive;
-    border: 10px solid white;
-    letter-spacing: 25px;
-    color: white;
-    font-size: 50px;
-    border-radius: 30px;
 }
 
 .lastSection {
